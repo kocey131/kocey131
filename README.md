@@ -20,7 +20,11 @@ Silly guy in Paris with a passion for computers and networks.
 
 ## 
 - My homelab is my playground, I sometimes break things and then I fix them
-- 
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white)
+## Technologies & Platforms
 
+- <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" width="40" height="40"/> Docker
+- <img src="https://img.icons8.com/color/48/000000/fortinet.png" alt="Fortinet" width="40" height="40"/> Fortinet
+- <img src="https://img.icons8.com/color/48/000000/cisco.png" alt="Cisco" width="40" height="40"/> Cisco
+- <img src="https://img.icons8.com/color/48/000000/windows-logo.png" alt="Windows" width="40" height="40"/> Windows
+- <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux" width="40" height="40"/> Linux
