@@ -1,4 +1,4 @@
-### Hi there 👋
+### Salut / Hi 👋
 
 <!--
 **kocey131/kocey131** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# OUANES Koceila
+
+Silly guy in Paris with a passion for computers and networks. 
+
+## 
+- My homelab is my playground, I sometimes break things and then I fix them
+- 
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white)
+
