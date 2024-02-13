@@ -1,20 +1,19 @@
-### Salut / Hi 👋
+### 
+<div id="header" align="center">
+  <img src="https://media2.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif?cid=6c09b952parogoc3t3j77sttab37yd24u7kpx0fkugima1zs&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" width="150"/>
+</div>
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/ouaneskoceila">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" width="100" alt="LinkedIn Badge"/>
+  </a>
+</div>
 
-<!--
-**kocey131/kocey131** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1>
+  Salut / Hi 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# 
+#
 
 Silly guy in Paris with a passion for computers and networks. 
 
