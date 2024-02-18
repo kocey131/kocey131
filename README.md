@@ -1,10 +1,10 @@
 ### 
 <div id="header" align="center">
-  <img src="https://media2.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif?cid=6c09b952parogoc3t3j77sttab37yd24u7kpx0fkugima1zs&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" width="150"/>
+  <img src="https://media2.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif?cid=6c09b952parogoc3t3j77sttab37yd24u7kpx0fkugima1zs&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" width="300"/>
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/ouaneskoceila">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" width="70" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" width="130" alt="LinkedIn Badge"/>
   </a>
 </div>
 
